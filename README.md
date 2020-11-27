@@ -1,6 +1,6 @@
 # Betterdiscord
 My BetterDiscord Themes/Plugins
-Credits to JayWilson and everyone in the BetterDiscord and CodeDotSpectra servers :)
+Credits to JayWilson, Sukima and everyone in the BetterDiscord and CodeDotSpectra servers :)
 To install one of my themes or plugins:
 1 Download the file
 2 Open your theme/plugin folder through the betterdiscord settings menu
