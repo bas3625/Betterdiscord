@@ -1,13 +1,13 @@
-  /**
+ /**
  * @name Round Discord
- * @version 1.0.3
+ * @version 1.0.4
  * @author Bas
  * @description Discord but it's all round.
  * @invite 8xRmBPH
 **/
 
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
-@import url(https://jaywilson7.github.io/BorderShapes/Source/BorderShapes.css);
+@import url('https://bas3625.github.io/Source.css');
 @import url('https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css');
 
 
@@ -161,7 +161,7 @@
 }
 
 #app-mount .info-1VyQPT::before {
-   content: "RoundDiscord v1.0.3";
+   content: "RoundDiscord v1.0.4";
    color: var(--text-muted);
    font-size: 12px;
    line-height: 16px
