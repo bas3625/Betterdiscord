@@ -1,4 +1,4 @@
- /**
+/**
  * @name Round Discord
  * @version 1.0.5
  * @author Bas
@@ -6,16 +6,15 @@
  * @invite 8xRmBPH
 **/
 
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
-@import url('https://bas3625.github.io/bas3625.github.io/Source.css');
-
+@import url("https://bas3625.github.io/bas3625.github.io/Source.css");
 
 :root {
-  --customFont:"Varela Round"}::-webkit-input-placeholder,body:not([class*=hljs]):not(code):not([class*=ace_]){font-family:var(--customFont)!important}.ace_editor{font:17px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace!important
+  --customFont: "Varela Round";
 }
 
 #app-mount .info-1VyQPT::before {
-   content: "RoundDiscord v1.0.5";
-   color: var(--text-muted);
-   font-size: 12px;
-   line-height: 16px
+  content: "RoundDiscord v1.0.5";
+  color: var(--text-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
