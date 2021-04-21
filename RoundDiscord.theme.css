@@ -3,7 +3,7 @@
  * @version 1.0.5
  * @author Bas
  * @authorId 638718909297590274
- * @description Making all discord border-shapes round and adding some animations.
+ * @description Making all discord border-shapes round and adding some small changes.
  * @website https://github.com/bas3625/Betterdiscord/releases
  * @invite 8xRmBPH
 **/
@@ -11,11 +11,14 @@
 @import url("https://bas3625.github.io/bas3625/Source.css");
 
 :root {
-  --customFont: "Varela Round";
+}
+
+*:not(code) {
+  font-family: "Comfortaa";
 }
 
 #app-mount .info-1VyQPT::before {
-  content: "RoundDiscord v1.0.5";
+  content: "RoundDiscord v1.0.6";
   color: var(--text-muted);
   font-size: 12px;
   line-height: 16px;
